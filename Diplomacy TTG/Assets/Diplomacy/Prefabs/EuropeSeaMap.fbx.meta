@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 4da9da429c6326c4ba0271b293d324c4
+timeCreated: 1508146146
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: AdriaticSea
+    100002: AegeanSea
+    100004: Baltic
+    100006: Barents
+    100008: BlackSea
+    100010: EasternMediterranean
+    100012: EnglishChannel
+    100014: //RootNode
+    100016: GulfOfBothnia
+    100018: GulfOfLyons
+    100020: HeligolandBlight
+    100022: IonianSea
+    100024: IrishSea
+    100026: MidAtlantic
+    100028: NorthAtlantic
+    100030: NorthSea
+    100032: NorwegianSea
+    100034: Russian_Lake01
+    100036: Russian_Lake02
+    100038: Skageriack
+    100040: TyrrhenianSea
+    100042: WesternMediterranean
+    400000: AdriaticSea
+    400002: AegeanSea
+    400004: Baltic
+    400006: Barents
+    400008: BlackSea
+    400010: EasternMediterranean
+    400012: EnglishChannel
+    400014: //RootNode
+    400016: GulfOfBothnia
+    400018: GulfOfLyons
+    400020: HeligolandBlight
+    400022: IonianSea
+    400024: IrishSea
+    400026: MidAtlantic
+    400028: NorthAtlantic
+    400030: NorthSea
+    400032: NorwegianSea
+    400034: Russian_Lake01
+    400036: Russian_Lake02
+    400038: Skageriack
+    400040: TyrrhenianSea
+    400042: WesternMediterranean
+    2300000: AdriaticSea
+    2300002: AegeanSea
+    2300004: Baltic
+    2300006: Barents
+    2300008: BlackSea
+    2300010: EasternMediterranean
+    2300012: EnglishChannel
+    2300014: GulfOfBothnia
+    2300016: GulfOfLyons
+    2300018: HeligolandBlight
+    2300020: IonianSea
+    2300022: IrishSea
+    2300024: MidAtlantic
+    2300026: NorthAtlantic
+    2300028: NorthSea
+    2300030: NorwegianSea
+    2300032: Russian_Lake01
+    2300034: Russian_Lake02
+    2300036: Skageriack
+    2300038: TyrrhenianSea
+    2300040: WesternMediterranean
+    3300000: AdriaticSea
+    3300002: AegeanSea
+    3300004: Baltic
+    3300006: Barents
+    3300008: BlackSea
+    3300010: EasternMediterranean
+    3300012: EnglishChannel
+    3300014: GulfOfBothnia
+    3300016: GulfOfLyons
+    3300018: HeligolandBlight
+    3300020: IonianSea
+    3300022: IrishSea
+    3300024: MidAtlantic
+    3300026: NorthAtlantic
+    3300028: NorthSea
+    3300030: NorwegianSea
+    3300032: Russian_Lake01
+    3300034: Russian_Lake02
+    3300036: Skageriack
+    3300038: TyrrhenianSea
+    3300040: WesternMediterranean
+    4300000: Russian_Lake01
+    4300002: BlackSea
+    4300004: EasternMediterranean
+    4300006: AegeanSea
+    4300008: IonianSea
+    4300010: AdriaticSea
+    4300012: TyrrhenianSea
+    4300014: GulfOfLyons
+    4300016: WesternMediterranean
+    4300018: MidAtlantic
+    4300020: EnglishChannel
+    4300022: IrishSea
+    4300024: NorthAtlantic
+    4300026: Barents
+    4300028: NorthSea
+    4300030: NorwegianSea
+    4300032: Skageriack
+    4300034: HeligolandBlight
+    4300036: Baltic
+    4300038: GulfOfBothnia
+    4300040: Russian_Lake02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
